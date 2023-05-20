@@ -1,0 +1,155 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.blue {
+  /* background-color: blue; */
+  background: rgb(81, 193, 237);
+  height: 70px;
+}
+
+.white {
+  background: white;
+  height: 10px;
+}
+
+.blue2 {
+  background: rgb(81, 193, 237);
+  height: 50px;
+}
+.logo {
+  margin-top: 30px;
+}
+
+.phy {
+  font-size: 50px;
+  font-family: Caladea;
+  font-weight: bolder;
+  margin-top: 15px;
+}
+
+.on {
+  margin-top: 15px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.catego {
+  margin-top: 15px;
+  font-weight: bolder;
+  font-size: 60px;
+  color: blue;
+}
+
+.date {
+  margin-top: 30px;
+  font-size: medium;
+  color: rgb(116, 116, 238);
+  font-weight: 900;
+}
+.cal {
+  margin-top: 30px;
+  font-weight: 600;
+}
+.time {
+  margin-top: 30px;
+  font-size: medium;
+  color: rgb(116, 116, 238);
+  font-weight: 900;
+}
+
+.time2 {
+  margin-top: 30px;
+  font-weight: 600;
+}
+.venue {
+  margin-top: 30px;
+  font-size: medium;
+  color: rgb(116, 116, 238);
+  font-weight: 900;
+}
+
+.venue2 {
+  margin-top: 30px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.conv {
+  margin-top: 90px;
+  font-size: medium;
+  color: rgb(116, 116, 238);
+  font-weight: 900;
+}
+
+.timo {
+  margin-top: 20px;
+  font-weight: 600;
+  line-height: 50px;
+}
+.theme {
+  margin-top: 90px;
+  font-weight: 600;
+  line-height: 50px;
+}
+
+.analysis {
+  font-weight: 600;
+  line-height: 50px;
+  font-size: xx-large;
+}
+.top {
+  margin-top: 90px;
+}
+.brief {
+  /* margin-left: 80px; */
+  color: blueviolet;
+  font-weight: 700;
+}
+.one {
+  /* margin-left: 80px; */
+  margin-top: 15px;
+  line-height: 30px;
+  /* margin-right: 80px; */
+}
+
+.brief2 {
+  color: blueviolet;
+  font-weight: 700;
+  margin-top: 70px;
+}
+.ul {
+  line-height: 40px;
+}
+
+.just {
+  font-weight: bold;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
