@@ -157,3 +157,9 @@ tr:nth-child(even) {
 .ls {
   font-weight: 700;
 }
+td {
+  text-align: center;
+}
+th {
+  text-align: center;
+}
