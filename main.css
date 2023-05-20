@@ -153,3 +153,7 @@ th {
 tr:nth-child(even) {
   background-color: white;
 }
+
+.ls {
+  font-weight: 700;
+}
